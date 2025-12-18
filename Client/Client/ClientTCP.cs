@@ -61,8 +61,6 @@ namespace Client
                         }
                         totalBytesRead += bytesRead;
                     }
-
-                    // Chuyển đổi và trả về
                     string response = Encoding.UTF8.GetString(messageBuffer, 0, totalBytesRead);
 
 
