@@ -1,0 +1,17 @@
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\bin\Debug\net8.0-windows\testBaoCao.exe
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\bin\Debug\net8.0-windows\testBaoCao.deps.json
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\bin\Debug\net8.0-windows\testBaoCao.runtimeconfig.json
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\bin\Debug\net8.0-windows\testBaoCao.dll
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\bin\Debug\net8.0-windows\testBaoCao.pdb
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\obj\Debug\net8.0-windows\testBaoCao.Form1.resources
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\obj\Debug\net8.0-windows\testBaoCao.csproj.GenerateResource.cache
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\obj\Debug\net8.0-windows\testBaoCao.GeneratedMSBuildEditorConfig.editorconfig
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\obj\Debug\net8.0-windows\testBaoCao.AssemblyInfoInputs.cache
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\obj\Debug\net8.0-windows\testBaoCao.AssemblyInfo.cs
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\obj\Debug\net8.0-windows\testBaoCao.csproj.CoreCompileInputs.cache
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\obj\Debug\net8.0-windows\testBaoCao.sourcelink.json
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\obj\Debug\net8.0-windows\testBaoCao.dll
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\obj\Debug\net8.0-windows\refint\testBaoCao.dll
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\obj\Debug\net8.0-windows\testBaoCao.pdb
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\obj\Debug\net8.0-windows\testBaoCao.genruntimeconfig.cache
+D:\project vs-git\Nhom-08-24521641-24521644\testBaoCao\testBaoCao\obj\Debug\net8.0-windows\ref\testBaoCao.dll

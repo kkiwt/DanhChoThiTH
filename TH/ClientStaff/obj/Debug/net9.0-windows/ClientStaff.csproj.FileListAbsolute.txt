@@ -1,0 +1,16 @@
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\bin\Debug\net9.0-windows\ClientStaff.exe
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\bin\Debug\net9.0-windows\ClientStaff.deps.json
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\bin\Debug\net9.0-windows\ClientStaff.runtimeconfig.json
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\bin\Debug\net9.0-windows\ClientStaff.dll
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\bin\Debug\net9.0-windows\ClientStaff.pdb
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\obj\Debug\net9.0-windows\ClientStaff.Form1.resources
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\obj\Debug\net9.0-windows\ClientStaff.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\obj\Debug\net9.0-windows\ClientStaff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\obj\Debug\net9.0-windows\ClientStaff.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\obj\Debug\net9.0-windows\ClientStaff.AssemblyInfo.cs
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\obj\Debug\net9.0-windows\ClientStaff.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\obj\Debug\net9.0-windows\ClientStaff.dll
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\obj\Debug\net9.0-windows\refint\ClientStaff.dll
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\obj\Debug\net9.0-windows\ClientStaff.pdb
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\obj\Debug\net9.0-windows\ClientStaff.genruntimeconfig.cache
+C:\Users\Admin\Downloads\testBaoCao\ClientStaff\obj\Debug\net9.0-windows\ref\ClientStaff.dll
